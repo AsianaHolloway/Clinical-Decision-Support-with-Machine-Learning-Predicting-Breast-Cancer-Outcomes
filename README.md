@@ -11,6 +11,11 @@
 ## ⭐ Project Overview
 This project demonstrates how supervised machine learning can support Clinical Decision Support Systems (CDSS) by predicting breast cancer outcomes (benign vs. malignant) using diagnostic imaging features from the Wisconsin Breast Cancer Dataset.
 
+## 🎥 Final Project Video Presentation
+
+[![Watch the Video](https://github.com/AsianaHolloway/Clinical-Decision-Support-with-Machine-Learning-Predicting-Breast-Cancer-Outcomes/blob/main/results/video_thumbnail.png?raw=true)](https://drive.google.com/file/d/1nNST71wl7-wnZE9ChMDSTAQO7_nKuvpK/view?usp=sharing)
+
+
 The project includes:
 
 - Data preprocessing and cleaning  
