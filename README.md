@@ -14,7 +14,7 @@ This project demonstrates how supervised machine learning can support Clinical D
 <h2>🎥 Final Project Video Presentation</h2>
 
 <a href="https://drive.google.com/file/d/1nNST71wl7-wnZE9ChMDSTAQO7_nKuvpK/view?usp=sharing" target="_blank">
-  <img src="results/video_thumbnail.png" alt="Video Thumbnail" width="600">
+  <img src="results/video_thumbnail.png" alt="Video Thumbnail" width="400">
 </a>
 
 
